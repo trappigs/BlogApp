@@ -10,7 +10,7 @@
 
         public int PostId { get; set; }
 
-        public Post Posts { get; set; } = null!;
+        public Post Post { get; set; } = null!;
 
         public int UserId { get; set; }
 
